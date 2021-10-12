@@ -1,0 +1,4 @@
+{:main cljs-node.core
+ :target :nodejs
+ :output-dir "dist"
+ :output-to "dist/index.js"}
